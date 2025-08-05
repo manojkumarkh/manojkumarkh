@@ -1,4 +1,4 @@
- # 💫 About Me:
+ # About Me:
 👋 Hi, I'm Manoj Kumar K H  <br>🎓 BCA student , Mysore  <br>💻 Learning Python, HTML, CSS<br>🚀 Aspiring Web & Software Developer  <br>🌱 Currently building my portfolio and projects  <br>📫 Reach me: manojkumarkh71@gmail.com
 
 
